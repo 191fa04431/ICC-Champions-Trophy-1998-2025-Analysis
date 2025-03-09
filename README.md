@@ -1,7 +1,5 @@
 # ICC-Champions-Trophy-1998-2025-Analysis
 
-# ICC Champions Trophy Cricket Data Analysis
-
 This project analyzes the ICC Champions Trophy Cricket Dataset from 1998 to 2025. It explores various aspects of the tournament, including match results, player information, and team performance.
 
 ## Table of Contents
